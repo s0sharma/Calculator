@@ -2,9 +2,9 @@
 It shows basic knowledge of Node.js and Express.js
 
 ## Demo
-![Home](/cal-home.png)
+![Home](Images/cal-home.png)
 
 <br>
 
-![Home](/cal-res.png)
+![Result](Images/cal-res.png)
 
